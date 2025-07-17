@@ -11,10 +11,18 @@
   - [IDS Configuration](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>USB Rubber Ducky Keylogger Payload Project</b>
   - [Keylogger Payload](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Network Traffic Analysis</b>
   - [Network Analysis Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>Certifications</h2>
+
+[CompTIA Security+ (SY0-701) ](https://www.credly.com/badges/7f7498cb-c6a5-416b-b6cd-997571ad6b45/public_url)
+
+[CompTIA Network+ (N10-009) ](https://www.credly.com/badges/18d41486-3698-4ce5-9613-a6e6e9306eaa/public_url)
+
+[CompTIA CySA+ (CS0-003) ](https://www.credly.com/badges/5e4be875-d3af-4a42-a015-aaca04763341/public_url)
+
+[CompTIA Security Analytics Professional – CSAP Stackable Certification](https://www.credly.com/badges/6ad53012-23e1-4225-afd6-24b3c5c48e1f/public_url)
 
 <h2>Why I Do This</h2>
 Cybersecurity isn't just a career path for me, it's a mission. I'm driven by the challenge of understanding how systems break so I can learn how to secure them. Every tool I use, every script I write, and every project I build is part of a bigger goal: to become someone who can protect people, data, and infrastructure in a world that grows more connected and more vulnerable, every day.
