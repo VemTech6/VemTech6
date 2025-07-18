@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Wi-Fi Pentest: Real-World Wireless Security Assessment</b>
-  - [Wi-Fi Pentesting Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Wi-Fi Pentesting Project](https://github.com/VemTech6/Wi-Fi-Pentesting-Project)
 - <b>Splunk SIEM Deployment on a Home Network</b> 
   - [Splunk SIEM Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <bFirewall and Intrusion Detection System Configuration</b>
