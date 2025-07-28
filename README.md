@@ -4,13 +4,13 @@
 
 - <b>Home Wi-Fi Pentest: Real-World Wireless Security Assessment</b>
   - [Wi-Fi Pentesting Project](https://github.com/VemTech6/Wi-Fi-Pentesting-Project)
+  - <b>USB Rubber Ducky Keylogger Payload</b>
+  - [Keylogger Payload](https://github.com/VemTech6/Keylogger-Payload)
 - <b>Splunk SIEM Deployment on a Home Network</b> 
   - [Splunk SIEM Project](https://github.com/VemTech6/Splunk-SIEM-Project)<b>
 - <b>Firewall and Intrusion Detection System Configuration</b>
   - [Firewall Configuration](https://github.com/VemTech6/Firewall-Configuration)
   - [IDS Configuration](https://github.com/VemTech6/IDS-Configuration)
-- <b>USB Rubber Ducky Keylogger Payload</b>
-  - [Keylogger Payload](https://github.com/VemTech6/Keylogger-Payload)
 - <b>Network Traffic Analysis</b>
   - [Network Analysis Project](https://github.com/VemTech6/Network-Analysis-Project)
 
