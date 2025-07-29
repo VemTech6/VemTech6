@@ -6,15 +6,16 @@
 
 - <b>Home Wi-Fi Pentest: Real-World Wireless Security Assessment</b>
   - [Wi-Fi Pentesting Project](https://github.com/VemTech6/Wi-Fi-Pentesting-Project)
-  - <b>USB Rubber Ducky Keylogger Payload</b>
+- <b>USB Rubber Ducky Keylogger Payload</b>
   - [Keylogger Payload](https://github.com/VemTech6/Keylogger-Payload)
-- <b>Splunk SIEM Deployment on a Home Network</b> 
-  - [Splunk SIEM Project](https://github.com/VemTech6/Splunk-SIEM-Project)<b>
-- <b>Firewall and Intrusion Detection System Configuration</b>
-  - [Firewall Configuration](https://github.com/VemTech6/Firewall-Configuration)
-  - [IDS Configuration](https://github.com/VemTech6/IDS-Configuration)
-- <b>Network Traffic Analysis</b>
-  - [Network Analysis Project](https://github.com/VemTech6/Network-Analysis-Project)
+- <b>Memory Forensics Lab Using Volatility</b> 
+  - [Volatility Memory Analysis](https://github.com/VemTech6/Memory-Forensics-Lab)
+- <b>MITRE ATT&CK Use Case Mapping</b>  
+  - [ATT&CK Use Case Project](https://github.com/VemTech6/ATTACK-Use-Case-Project)
+- <b>Correlation Rule Development for Multi-Source Log Detection</b>  
+  - [Log Correlation Project](https://github.com/VemTech6/Log-Correlation-Project)
+- <b>PowerShell Abuse Detection with Sysmon & Splunk</b>  
+  - [PowerShell Detection Lab](https://github.com/VemTech6/PowerShell-Detection-Lab)
 
 <h2>🔐 Personal Security Plan (PSP):</h2>
  
