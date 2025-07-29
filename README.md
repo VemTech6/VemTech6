@@ -1,5 +1,7 @@
 <h1>Hi, I'm Dakhari! <a href="https://www.linkedin.com/in/dakhari-shorter/">Cybersecurity Professional</a>
 
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Wi-Fi Pentest: Real-World Wireless Security Assessment</b>
@@ -13,6 +15,11 @@
   - [IDS Configuration](https://github.com/VemTech6/IDS-Configuration)
 - <b>Network Traffic Analysis</b>
   - [Network Analysis Project](https://github.com/VemTech6/Network-Analysis-Project)
+
+<h2>🔐 Personal Security Plan (PSP):</h2>
+
+ - [Personal Security Plan](https://github.com/VemTech6/Personal-Security-Plan) 
+
 
 <h2>Certifications</h2>
 
