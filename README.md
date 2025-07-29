@@ -19,7 +19,6 @@
 <h2>🔐 Personal Security Plan (PSP):</h2>
  
  - A living document outlining the security practices, habits, and tools I use to manage my own digital risk posture.
-
  - [View PSP](https://github.com/VemTech6/Personal-Security-Plan)
 
 
