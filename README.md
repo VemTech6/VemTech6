@@ -17,8 +17,11 @@
   - [Network Analysis Project](https://github.com/VemTech6/Network-Analysis-Project)
 
 <h2>🔐 Personal Security Plan (PSP):</h2>
+ 
+ - A living document outlining the security practices, habits, and tools I use to manage my own digital risk posture.
 
- - [Personal Security Plan](https://github.com/VemTech6/Personal-Security-Plan) 
+ - [View PSP](https://github.com/VemTech6/Personal-Security-Plan)
+
 
 
 <h2>Certifications</h2>
