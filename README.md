@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dakhari! <a href="https://www.linkedin.com/in/dakhari-shorter/">Cybersecurity Professional</a>
 
-https://github.com/VemTech6/Splunk-SIEM-Project
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
