@@ -17,6 +17,9 @@
 - <b>Correlation Rule Development for Multi-Source Log Detection</b>  
   - [Log Correlation Project](https://github.com/VemTech6/Log-Correlation-Project)
 
+ <h2>🛡️SOC Case Studies:</h2>
+ 
+- [Let's Defend SIEM Alerts](https://github.com/VemTech6/letsdefend-siem-alerts)
 
 <h2>🔐 Personal Security Plan (PSP):</h2>
  
