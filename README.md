@@ -10,8 +10,8 @@
   - [Keylogger Payload](https://github.com/VemTech6/Keylogger-Payload)
 - <b>macOS Endpoint Log Analysis in Splunk</b>  
   - [PowerShell Detection Lab](https://github.com/VemTech6/Splunk-SIEM-Project)
-- <b>Memory Forensics Lab Using Volatility</b> 
-  - [Volatility Memory Analysis](https://github.com/VemTech6/Memory-Forensics-Lab)
+- <b>Windows Event Log Analysis with Splunk</b> 
+  - [Windows Detection Engineering](https://github.com/VemTech6/Memory-Forensics-Lab)
 - <b>MITRE ATT&CK Use Case Mapping</b>  
   - [ATT&CK Use Case Project](https://github.com/VemTech6/ATTACK-Use-Case-Project)
 - <b>Correlation Rule Development for Multi-Source Log Detection</b>  
