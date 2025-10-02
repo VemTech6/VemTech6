@@ -1,5 +1,5 @@
-<h1>Hi, I'm Dakhari! <a href="https://www.linkedin.com/in/dakhari-shorter/">Cybersecurity Professional</a>
-
+<h1>Hi, I'm Dakhari! <a href="https://drive.google.com/file/d/1VRh0zVOO7UP_Qy5q36dQ5-IhXzuLIPRr/view?usp=drive_link)
+">Resume</a>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
